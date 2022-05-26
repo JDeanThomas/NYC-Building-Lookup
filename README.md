@@ -1,6 +1,6 @@
 ## NYC Building Information Lookup
 For determining if a building meets rent stabilization requirements  
-Primarily, built before 1974 and has at least 8 units*  
+Primarily, built before 1974 and has at least 6 units*  
 ######  
 
 ![Tux, the Linux mascot](https://rentguidelinesboard.cityofnewyork.us/wp-content/uploads/2019/08/RGB_logo.svg)
